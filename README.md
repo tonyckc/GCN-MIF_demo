@@ -1,1 +1,1 @@
-# 3D-Graph-Convolutional-Networks-for-Slice-based-Medical-Image-denoising
+# 3D-Graph-Convolutional-Networks-for-Medical-Image-denoising
