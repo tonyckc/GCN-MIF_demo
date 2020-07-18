@@ -4,10 +4,10 @@ paper to arxiv.com later.
 ## Overall idea
 You can impose this module to extract the non-local information of  medical image intra-slice with a play-and-plug fashion. Also, this can leverage the 3D spatial information between inter-slices. Finally, those information are aggregated as a hybrid one through a trainable weight.
 ## Versions
-### Play-and-Plug: 
+### 1)Play-and-Plug: 
    This can insert your backbone network directly with a manner of concatatenation. Then, the method of Fine-Tuning can be used to
    updata few of module parameters, which is not time-comsuming process. Finally, the extracted non-local and 3D spatial information consist of a        single feature map as the output of this module
-### General: 
+### 2)General: 
    You MUST train the network from scratch. The output of this module is the way of 3D. 
 ## Framework
 ![images](https://github.com/tonyckc/3D-Graph-Convolutional-Networks-for-Medical-Image-denoising/tree/master/images/frame.png)
