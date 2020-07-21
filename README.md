@@ -12,8 +12,9 @@ You can impose this module to extract the non-local information of  medical imag
 ## Framework
 ![images](https://github.com/tonyckc/3D-Graph-Convolutional-Networks-for-Medical-Image-denoising/tree/master/images/frame.png)
 ## Experimental results
-1) ![images](https://github.com/tonyckc/3D-Graph-Convolutional-Networks-for-Medical-Image-denoising/blob/master/images/fig2.png)
-we will add extra visualized results later. 
+![images](https://github.com/tonyckc/3D-Graph-Convolutional-Networks-for-Medical-Image-denoising/blob/master/images/fig2.png)
+
+We will add extra visualized results later. 
 ## Configrations
 1) Python 3+;
 2) tensorflow 1.12+
