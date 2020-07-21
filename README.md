@@ -10,11 +10,9 @@ You can impose this module to extract the non-local information of  medical imag
 ### 2)General: 
    You MUST train the network from scratch. The output of this module is the way of 3D. 
 ## Framework
-![images](https://github.com/tonyckc/3D-Graph-Convolutional-Networks-for-Medical-Image-denoising/tree/master/images/frame1.png)
-![note](https://github.com/tonyckc/3D-Graph-Convolutional-Networks-for-Medical-Image-denoising/tree/master/images/frame1.png)
+![images](https://raw.githubusercontent.com/tonyckc/3D-Graph-Convolutional-Networks-for-Medical-Image-denoising/tree/master/images/frame1.png)
 ## Experimental results
 ![images](https://github.com/tonyckc/3D-Graph-Convolutional-Networks-for-Medical-Image-denoising/blob/master/images/fig2.png)
-
 We will add extra visualized results later. 
 ## Configrations
 1) Python 3+;
