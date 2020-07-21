@@ -1,5 +1,5 @@
 # 3D-Graph-Convolutional-Networks-for-Medical-Image-denoising
-This project, i.e.,3D GCN module, is for the paper "3D Graph Convolutional Networks for Medical Image denoising.". We will upload this
+This project, i.e.,3D GCN module, is for the paper "3D Graph Convolutional Networks for Medical Image Denoising.". We will upload this
 paper to arxiv.com later. 
 ## Overall idea
 You can impose this module to extract the non-local information of  medical image intra-slice with a play-and-plug fashion. Also, this can leverage the 3D spatial information between inter-slices. Finally, those information are aggregated as a hybrid one through a trainable weight.
